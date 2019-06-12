@@ -5,6 +5,14 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorOpener", "DoorOpener\DoorOpener.csproj", "{9CFDEDDD-8DAB-4A59-A7D0-05992320380C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{D05D0249-60D9-422B-B7F1-5A4A7A983262}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\pic_1.png = ..\..\..\Desktop\pic_1.png
+		..\..\..\Desktop\pic_2.png = ..\..\..\Desktop\pic_2.png
+		..\..\..\Desktop\pic_3.png = ..\..\..\Desktop\pic_3.png
+		..\..\..\Desktop\pic_4.png = ..\..\..\Desktop\pic_4.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
