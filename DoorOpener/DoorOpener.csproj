@@ -205,6 +205,10 @@
     <None Include="rss\ic_setting.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\pic_1.png" />
+    <Content Include="Images\pic_2.png" />
+    <Content Include="Images\pic_3.png" />
+    <Content Include="Images\pic_4.png" />
     <Content Include="logo.ico" />
     <None Include="rss\not-connected.png" />
     <None Include="rss\connected.png" />
