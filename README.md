@@ -24,4 +24,4 @@ However while writing code i need a mug of coffee,
 You might <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HJB2KMNHGKHDY&source=url"> Wanna Buy me a coffee </a>
 Thank You
 
-Auther: <a href="https://www.linkedin.com/in/muhammad-rehan-505967ba/"> Muhammad Rehan </a>
+Author: <a href="https://www.linkedin.com/in/muhammad-rehan-505967ba/"> Muhammad Rehan </a>
